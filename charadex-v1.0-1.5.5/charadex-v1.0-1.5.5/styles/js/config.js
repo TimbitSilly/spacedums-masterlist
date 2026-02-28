@@ -15,8 +15,8 @@ let charadex = {};
 /* Any preview links will still show Charadex's information
 /* ==================================================================== */
 charadex.site = {
-  title: "Charadex",
-  url: "https://charadex-team.github.io/charadex-v1.0/",
+  title: "SpaceDum Masterlist",
+  url: "https://timbitsilly.github.io/spacedums-masterlist/",
   description: `A tool for organizing small ARPGs and species.`
 }
 
@@ -26,7 +26,7 @@ charadex.site = {
 /* ==================================================================== */
 charadex.sheet = {
 
-  id: "1GwgfLizD3HQCieGia6di-TfU4E3EipT9Jb0BDZQwNak",
+  id: "1GWApOGUYhwcNbwMpsqGobK__esqVq53Zldsl9IMEjsE",
 
   pages: {
     masterlist:    "masterlist",
@@ -44,10 +44,10 @@ charadex.sheet = {
 
     designTypes: ['All', 'Official Design', 'Guest Design', 'MYO Slot', 'MYO Design'],
     statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'For Sale', 'Purchased'],
-    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Very Rare', 'Legendary'],
-    species: ['All', 'Dog', 'Cat', 'Bunny'],
-    itemTypes: ['All', 'Currency', 'MYO Slot', 'Pet', 'Trait', 'Misc'],
-    traitTypes: ['All', 'Ears', 'Eyes', 'Body', 'Limbs', 'Tails', 'Misc', 'Mutations']
+    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Ultra Rare', 'Custom Trait', 'Timbit Only'],
+    species: ['All', 'SpaceCandums', 'SpaceCakums', 'SpaceCrunchums', 'SpaceSodums', 'SpaceTreatums'],
+    itemTypes: ['All', 'Currency', 'MYO Slot', 'Misc'],
+    traitTypes: ['All', 'Glow Markings', 'Look And Feel', 'Antennas/Horns', 'Tails', 'Aura', 'Mutations', 'Hand Types', 'Misc']
 
   }
 
